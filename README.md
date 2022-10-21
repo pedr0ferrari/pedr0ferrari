@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with TypeScript.<br>🌱 I’m currently learning ReactJS, NextJS and Firebase.<br>👨🏻‍💻 Most of my projects are available on Github.<br>📝 Checkout my Resume.<br> 📧 Reach me out: pedrosantanaferrari96@gmail.com
+🔭 I’m currently working with TypeScript.<br>🌱 I’m currently learning ReactJS, NextJS and Firebase.<br>👨🏻‍💻 Most of my projects are available on Github.<br>📝 Checkout my [Resume](https://pedroferrariresume.tiiny.site).<br> 📧 Reach me out: pedrosantanaferrari96@gmail.com
 
 
 ## 🌐 Socials:
