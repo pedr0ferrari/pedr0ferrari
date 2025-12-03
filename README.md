@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working with TypeScript, ReactJS, NextJS and Firebase.<br>👨🏻‍💻 Some of my projects are available on Github.<br>📝 Checkout my [Resume](https://docs.google.com/document/d/1zWxYNUuxeUbdPESXM7FS1Z14JXwXvJZeeB7H5JaBXPE/edit?usp=sharing).<br> 📧 Reach me out: pedrosantanaferrari96@gmail.com
+Hi! I'm Pedro, a Fullstack Developer, addicted to jiu jitsu who enjoys building things that work well. <br> Checkout my [Resume](https://docs.google.com/document/d/1zWxYNUuxeUbdPESXM7FS1Z14JXwXvJZeeB7H5JaBXPE/edit?usp=sharing).<br> 📧 Reach me out: pedrosantanaferrari96@gmail.com
 
 
 ## Socials:
