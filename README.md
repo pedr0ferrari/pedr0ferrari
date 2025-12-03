@@ -1,7 +1,7 @@
 ## About Me
 Hi! I'm Pedro, a Fullstack Developer who enjoys building things that simply work well. Also a jiu-jitsu addict.  
 Check out my [Resume](https://docs.google.com/document/d/e/2PACX-1vQuOJzO2YM70diQeEe0vLu30xvVIV3q4_iYo0LtO7ZkHa4ErV0bSLnjl_tEwXOc_BEByWyAxipewuJo/pub).  
-📧 Reach me at: pedrosantanaferrari96@gmail.com
+Reach me at: pedrosantanaferrari96@gmail.com
 
 ### Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pedrosantanaferrari)
